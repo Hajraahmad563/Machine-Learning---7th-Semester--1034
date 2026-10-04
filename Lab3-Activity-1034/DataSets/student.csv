@@ -1,0 +1,13 @@
+StudyHours,Attendance,PreviousScore,AssignmentScore,InternetAccess,Pass
+2,65,45,50,No,0
+3,70,50,55,Yes,0
+4,75,55,60,Yes,0
+5,80,60,65,Yes,1
+6,85,65,70,Yes,1
+7,90,70,75,Yes,1
+8,95,80,85,Yes,1
+1,55,40,45,No,0
+2,60,48,50,No,0
+4,72,58,62,Yes,0
+5,78,62,68,Yes,1
+6,82,67,72,Yes,1
